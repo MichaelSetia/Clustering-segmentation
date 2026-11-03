@@ -93,7 +93,3 @@ Proyek ini dikembangkan menggunakan bahasa **Python** dengan pustaka sains data 
 3. **Jalankan Jupyter Notebook** secara berurutan dari sel pertama hingga selesai.
 
 ---
-
-## 📝 Lisensi
-
-Proyek ini dibuat untuk tujuan pembelajaran dan portofolio. Silakan sesuaikan bagian lisensi sesuai kebutuhan Anda.
